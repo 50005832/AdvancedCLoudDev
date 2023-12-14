@@ -27,3 +27,4 @@ https://www.gov.uk/register-to-vote"""
 
 chec_status = check_voting_status()
 print(chec_status)
+print("Victoria says hI! the capital i in thw wrong place annoys DavId.")
